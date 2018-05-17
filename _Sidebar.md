@@ -26,7 +26,7 @@
 #### Составные типы данных
 * [[Структуры|Структуры]]
 * Структуры
-  * [source Структуры](https://github.com/StriderAJR/StudentCpp/blob/master/source/Basics_07.5_Strings.h)
+  * [source Структуры](https://github.com/StriderAJR/StudentCpp/blob/master/source/Basics_09_Structures.h)
 * Перечисления
   * [source Перечисления](...)
 * Объединения
